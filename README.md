@@ -5,6 +5,8 @@ This resource centralizes experimental data on compounds targeting EGFR and its 
 
 **Web Server:** https://webs.iiitd.edu.in/raghava/egfrindb/
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20068093
+
 
 ## About the Database
 
